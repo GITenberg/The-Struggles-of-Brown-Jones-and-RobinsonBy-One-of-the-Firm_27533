@@ -1,0 +1,41 @@
+_repo: The-Struggles-of-Brown-Jones-and-RobinsonBy-One-of-the-Firm_27533
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: The Struggles of Brown, Jones, and Robinson is a satirical attack on
+  abuses in advertising. Told by "One of the firm," it is the tale of a foolhardy
+  junior partner of an ill-fated haberdashery. Robinson, formerly a bill-sticker,
+  wishes to spend the firm's entire capital on advertising, to "broadcast through
+  the metropolis." His devotion to inflated and dishonest advertising is the target
+  of this amusing comedy which bears all the hallmarks of Trollope's better known
+  novels--clever dialogue, riveting moments of drama, and comic suspense.
+gutenberg_issued: '2008-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27533'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcsh 'Men''s furnishing goods -- Fiction'
+- !lcsh 'Clothing trade -- Fiction'
+- !lcsh 'Businessmen -- Fiction'
+- !lcsh 'Advertising -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Satire'
+- !lcsh 'Great Britain -- Social life and customs -- 19th century -- Fiction'
+title: 'The Struggles of Brown, Jones, and Robinson
+
+  By One of the Firm'
+url: http://www.gutenberg.org/ebooks/27533
